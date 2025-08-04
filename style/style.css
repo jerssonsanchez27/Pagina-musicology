@@ -30,7 +30,7 @@ p{
 
 .seccion1{
     margin-top: 0px;
-        background-image: url(/assets/background.png);
+        background-image: url(../assets/background.png);
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
